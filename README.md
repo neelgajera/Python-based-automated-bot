@@ -10,7 +10,7 @@ A simple class which can login in facebook and do some activity
     
 ## Basic usage example:
 ```
-from s import facebook
+from bot import facebook
 fb=facebook("email-id","password")
 fb.addFriend()
 fb.updateStatus("put sataus text")
